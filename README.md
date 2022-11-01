@@ -8,4 +8,4 @@ For this activity I created my first portfolio. I started by creating a basic HT
 
 # Deployed site link
 
-
+https://giulia037.github.io/Portfolio/
